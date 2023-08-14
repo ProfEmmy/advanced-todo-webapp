@@ -107,7 +107,7 @@ li {
     }
 
     ul {
-        max-height: 42vh;
+        min-height: 42vh;
     }
 
     ul>li {
